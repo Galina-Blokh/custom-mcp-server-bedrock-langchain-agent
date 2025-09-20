@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY_ID="your access key id"
+AWS_SECRET_ACCESS_KEY="you_secret_access_key"
+AWS_SESSION_TOKEN="your_session_token"
+AWS_DEFAULT_REGION="your_default_region"
